@@ -25,7 +25,7 @@ def create_checkout_session():
                     'product_data': {
                         'name': 'Abonnement Hebdomadaire Premium',
                     },
-                    'unit_amount': 6000,  # 60 EUR en centimes
+                    'unit_amount': 9900,  # 60 EUR en centimes
                     'recurring': {
                         'interval': 'week',
                     },
