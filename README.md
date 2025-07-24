@@ -1,6 +1,6 @@
 # 💳 Abonnement Hebdomadaire avec Stripe + Flask
 
-Ce projet permet de mettre en place un système d’abonnement automatique (60€/semaine) via Stripe, déployable sur Render.
+Ce projet permet de mettre en place un système d’abonnement automatique (90€/semaine) via Stripe, déployable sur Render.
 
 ---
 
