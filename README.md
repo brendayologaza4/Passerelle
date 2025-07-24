@@ -7,7 +7,7 @@ Ce projet permet de mettre en place un système d’abonnement automatique (60�
 ## 🔧 Fonctionnalités
 
 - 🔒 Paiement sécurisé avec Stripe Checkout
-- 💰 Abonnement hebdomadaire (60€)
+- 💰 Abonnement hebdomadaire (90€)
 - 🚀 Déployable sur Render ou tout autre hébergeur
 - 💻 Interface simple et responsive
 
